@@ -6,5 +6,10 @@ It looks like it works fine. The statsmodels.stats.libqsturng.psturng library gi
 You will need to format your data as such (example data adapted from https://www.biostathandbook.com/onewayanova.html):
 name	mean	SD	N
 Tillamook	0.0802	0.011349361	10
-...  ...  ...  ...
+Newport	0.0748	0.008041921	8
+Petersburg	0.103442857	0.015007032	7
+Magadan	0.0780125	0.012108617	8
+Tvarminne	0.0957	0.0118323	6
+
+
 Copy into clipboard and run code
